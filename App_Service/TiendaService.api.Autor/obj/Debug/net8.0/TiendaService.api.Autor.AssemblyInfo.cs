@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaService.api.Autor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2adbf5b565793dc162991fc129f455bc57b3c82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708ab1ca0e8c09fb3964b02acbc2e0ae3265c567")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaService.api.Autor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaService.api.Autor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

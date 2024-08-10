@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\Tienda_Service\\App_Service\\TiendaService.api.Autor\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C30A1AF-A82A-4BD0-BA4A-E26C0B4A5D03}|..\\TiendaService.api.CarritoCompras\\TiendaService.api.CarritoCompras.csproj|c:\\users\\pc\\documents\\github\\tienda_service\\app_service\\tiendaservice.api.carritocompras\\remoteservices\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Tienda_Service\\App_Service\\TiendaService.api.CarritoCompras\\RemoteServices\\LibroService.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.api.CarritoCompras\\RemoteServices\\LibroService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Tienda_Service\\App_Service\\TiendaService.api.CarritoCompras\\RemoteServices\\LibroService.cs",
+              "RelativeToolTip": "..\\TiendaService.api.CarritoCompras\\RemoteServices\\LibroService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:35:30.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

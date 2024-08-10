@@ -18,6 +18,7 @@ namespace TiendaService.api.Libro.Test
     public class LibroServiceTest
     {
         private IEnumerable<LibreriaMaterial> ObtenerDataPrueba() {
+            //primer cambio
             A.Configure<LibreriaMaterial>()
                 .Fill(d => d.Titulo).AsArticleTitle() // en el campo titulo se le asignara un titulo aleatorio
                 .Fill(d => d.LibreriaMaterialId, () => { return Guid.NewGuid(); }); // en el campo libreria material ID un guid nuevo
