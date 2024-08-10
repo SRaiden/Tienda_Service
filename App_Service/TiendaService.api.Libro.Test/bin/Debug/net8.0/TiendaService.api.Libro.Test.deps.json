@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "TiendaService.api.Libro.Test/1.0.0": {
         "dependencies": {
+          "GenFu": "1.6.0",
+          "Microsoft.EntityFrameworkCore.InMemory": "8.0.7",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "Moq": "4.20.70",
           "TiendaService.Api.Libro": "1.0.0",
@@ -117,6 +119,18 @@
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.5.1.0"
+          }
+        }
+      },
+      "GenFu/1.6.0": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/GenFu.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
           }
         }
       },
@@ -252,6 +266,17 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/8.0.7": {},
+      "Microsoft.EntityFrameworkCore.InMemory/8.0.7": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.7"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "8.0.7.0",
+            "fileVersion": "8.0.724.31404"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/8.0.7": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.7",
@@ -1657,6 +1682,13 @@
       "path": "fluentvalidation.dependencyinjectionextensions/11.5.1",
       "hashPath": "fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512"
     },
+    "GenFu/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zftgGlBxsNv943AUCRQaxPOvktGcb7kNGX9qL7vvKeXpOM7V/sQIfwDPjg/TSGzAexDyaojbzjKh5c2Qi3UBiQ==",
+      "path": "genfu/1.6.0",
+      "hashPath": "genfu.1.6.0.nupkg.sha512"
+    },
     "MediatR/11.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1733,6 +1765,13 @@
       "sha512": "sha512-nerD0vEOYJVhVapamRVH9DrUYbDNMJ5bPfWze4SibDDaDaekzgwQqBht97/tV+8pgdKoPAXmtiJsB+lDajwVrQ==",
       "path": "microsoft.entityframeworkcore.analyzers/8.0.7",
       "hashPath": "microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/8.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LMboWsjFFD+i24pvKwxEz24D0NUPlE7+M6gHYcSLioShxKhsPs/OXcB2E6kWTXHK/HIOM88e0rVNyZylCI81FA==",
+      "path": "microsoft.entityframeworkcore.inmemory/8.0.7",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.8.0.7.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/8.0.7": {
       "type": "package",

@@ -132,3 +132,16 @@ C:\Users\PC\source\repos\App_Service\TiendaService.api.CarritoCompras\obj\Debug\
 C:\Users\PC\source\repos\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.pdb
 C:\Users\PC\source\repos\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.genruntimeconfig.cache
 C:\Users\PC\source\repos\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\ref\TiendaService.api.CarritoCompras.dll
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.sourcelink.json
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.dll
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\refint\TiendaService.api.CarritoCompras.dll
+C:\Users\PC\Documents\GitHub\Tienda_Service\App_Service\TiendaService.api.CarritoCompras\obj\Debug\net8.0\TiendaService.api.CarritoCompras.pdb
