@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\TiendaService.api.CarritoCompras.props" />
-</Project>
