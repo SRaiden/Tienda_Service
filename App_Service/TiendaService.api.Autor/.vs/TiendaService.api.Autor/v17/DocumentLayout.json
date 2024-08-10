@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Autor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{245F4159-E60A-4A64-890C-33625746993B}|..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro.test\\tiendaservice.api.libro.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F4159-E60A-4A64-890C-33625746993B}|..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro.test\\mappingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F4159-E60A-4A64-890C-33625746993B}|..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro.test\\libroservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F4159-E60A-4A64-890C-33625746993B}|..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro.test\\asyncenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F4159-E60A-4A64-890C-33625746993B}|..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro.test\\asyncenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367B4E3-1DFC-460E-B79D-CE5A414B0B5C}|..\\TiendaService.Api.Libro\\TiendaService.Api.Libro.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367B4E3-1DFC-460E-B79D-CE5A414B0B5C}|..\\TiendaService.Api.Libro\\TiendaService.Api.Libro.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro\\application\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367B4E3-1DFC-460E-B79D-CE5A414B0B5C}|..\\TiendaService.Api.Libro\\TiendaService.Api.Libro.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro\\application\\consultafiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367B4E3-1DFC-460E-B79D-CE5A414B0B5C}|..\\TiendaService.Api.Libro\\TiendaService.Api.Libro.csproj|c:\\users\\pc\\source\\repos\\app_service\\tiendaservice.api.libro\\application\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\MappingTest.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.api.Libro.Test\\MappingTest.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\MappingTest.cs",
+              "RelativeToolTip": "..\\TiendaService.api.Libro.Test\\MappingTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:39:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsyncEnumerable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\AsyncEnumerable.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.api.Libro.Test\\AsyncEnumerable.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\AsyncEnumerable.cs",
+              "RelativeToolTip": "..\\TiendaService.api.Libro.Test\\AsyncEnumerable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:31:32.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsyncEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\AsyncEnumerator.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.api.Libro.Test\\AsyncEnumerator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\AsyncEnumerator.cs",
+              "RelativeToolTip": "..\\TiendaService.api.Libro.Test\\AsyncEnumerator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:24:56.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nuevo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Application\\Nuevo.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.Api.Libro\\Application\\Nuevo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Application\\Nuevo.cs",
+              "RelativeToolTip": "..\\TiendaService.Api.Libro\\Application\\Nuevo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:50:09.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultaFiltro.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Application\\ConsultaFiltro.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.Api.Libro\\Application\\ConsultaFiltro.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Application\\ConsultaFiltro.cs",
+              "RelativeToolTip": "..\\TiendaService.Api.Libro\\Application\\ConsultaFiltro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:50:08.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.Api.Libro\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "..\\TiendaService.Api.Libro\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:26:07.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiendaService.api.Libro.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj",
+              "RelativeDocumentMoniker": "..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj",
+              "RelativeToolTip": "..\\TiendaService.api.Libro.Test\\TiendaService.api.Libro.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T15:48:25.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Application\\Consulta.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.Api.Libro\\Application\\Consulta.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.Api.Libro\\Application\\Consulta.cs",
+              "RelativeToolTip": "..\\TiendaService.Api.Libro\\Application\\Consulta.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:43:16.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\LibroServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\TiendaService.api.Libro.Test\\LibroServiceTest.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\App_Service\\TiendaService.api.Libro.Test\\LibroServiceTest.cs",
+              "RelativeToolTip": "..\\TiendaService.api.Libro.Test\\LibroServiceTest.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowDcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:41:12.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

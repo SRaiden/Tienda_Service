@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TiendaService.api.CarritoCompras.props" />
+</Project>
