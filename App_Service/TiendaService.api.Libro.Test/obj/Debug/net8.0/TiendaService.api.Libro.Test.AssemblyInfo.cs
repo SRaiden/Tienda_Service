@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaService.api.Libro.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e6c92d87ff4edb3f6c598d0e50183d11d2d3ddf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce80ce90fd7557f9366d3492cb1f0b2760ff796")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaService.api.Libro.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaService.api.Libro.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaService.Api.Libro", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaService.api.CarritoCompras", "..\TiendaService.api.CarritoCompras\TiendaService.api.CarritoCompras.csproj", "{0C30A1AF-A82A-4BD0-BA4A-E26C0B4A5D03}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaService.api.Libro.Test", "..\TiendaService.api.Libro.Test\TiendaService.api.Libro.Test.csproj", "{245F4159-E60A-4A64-890C-33625746993B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaService.api.Libro.Test", "..\TiendaService.api.Libro.Test\TiendaService.api.Libro.Test.csproj", "{245F4159-E60A-4A64-890C-33625746993B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TiendaService.Api.Libro.props" />
+</Project>
